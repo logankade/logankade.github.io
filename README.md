@@ -23,6 +23,6 @@ Welcome to my data analyst portfolio, where I showcase my skills and competency 
 
 Feel free to explore this project, and don't hesitate to reach out if you have any questions or feedback.
 
-Email: loganphillips240@outlook.com
+Email: [loganphillips240@outlook.com Email](loganphillips240@outlook.com)
 
-Linkedin: https://linkedin.com/in/loganlkp
+Linkedin: [https://linkedin.com/in/loganlkp](https://linkedin.com/in/loganlkp)
