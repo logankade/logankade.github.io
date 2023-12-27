@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Change the title color to black */
+.site-title {
+    color: black;
+}
+
+/* Change link color to red */
+a {
+    color: red;
+}
+
+/* Change link color on hover */
+a:hover {
+    color: darkred;
+}
