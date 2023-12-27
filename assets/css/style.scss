@@ -4,17 +4,16 @@
 @import "{{ site.theme }}";
 
 /* Change name color to black */
-header h1 {
-    color: black; 
-}
+.site-title h1 {
+    color: black;
 
 /* Change link color to red */
 a {
-    color: royalblue;
+    color: seagreen;
 }
 
 /* Change link color on hover */
 a:hover {
-    color: midnightblue;
+    color: darkseagreen;
 }
 
