@@ -3,11 +3,17 @@
 
 @import "{{ site.theme }}";
 
-/* Change name color to black */
-.site-title h1 {
-    color: black;
+/* Change the title color to black */
+.site-title h1, .site-title h1 a {
+    color: black !important;
+    text-decoration: none;
+}
 
-/* Change link color to red */
+.site-title h1 a:hover {
+    color: black !important;
+}
+
+/* Change link color */
 a {
     color: seagreen;
 }
@@ -16,4 +22,5 @@ a {
 a:hover {
     color: darkseagreen;
 }
+
 
