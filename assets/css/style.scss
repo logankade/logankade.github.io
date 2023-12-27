@@ -3,10 +3,9 @@
 
 @import "{{ site.theme }}";
 
-/* Change the title color to black and override link color */
-.site-title a, .site-title a:visited {
-    color: black; /* or any color you prefer */
-    text-decoration: none; /* optional, to remove underline */
+/* Change name color to black */
+header h1 {
+    color: black; 
 }
 
 /* Change link color to red */
