@@ -8,7 +8,7 @@ Welcome to my data analyst portfolio, where I showcase my skills and competency 
 
 ### Boeing Orders and Deliveries: Descriptive Analysis
 
-- **Repository:** [Jupyter Notebook(Python): Boeing Orders and Deliveries](https://github.com/logankade/BoeingOrdersDeliveries/blob/main/Boeing%20Project%20122823.ipynb)
+- **File:** [Jupyter Notebook(Python): Boeing Orders and Deliveries](https://github.com/logankade/BoeingOrdersDeliveries/blob/main/Boeing%20Project%20122823.ipynb)
 
 - **Processes:** Cleaning, Exploring, Interpreting
   
